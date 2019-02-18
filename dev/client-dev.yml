@@ -1,1 +1,2 @@
 from: dev
+logging.config=classpath:logback-dev.xml
