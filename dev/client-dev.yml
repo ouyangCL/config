@@ -1,1 +1,5 @@
 from: dev
+logging:
+  config: classpath:log4j2-dev.yml
+  level:
+    cn.jay.repository: trace
